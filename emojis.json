@@ -1,0 +1,208 @@
+[
+  {
+    "name": "BlobCats",
+    "type": "image",
+    "items": [
+      {
+        "key": "BlobCat_默认",
+        "val": "https://fastly.jsdelivr.net/gh/talen8/emojis/BlobCats/BlobCat.png"
+      },
+      {
+        "key": "BlobCat_生气",
+        "val": "https://fastly.jsdelivr.net/gh/talen8/emojis/BlobCats/BlobCat_Angery.png"
+      },
+      {
+        "key": "BlobCat_吐舌",
+        "val": "https://fastly.jsdelivr.net/gh/talen8/emojis/BlobCats/BlobCat_Blep.png"
+      },
+      {
+        "key": "BlobCat_害羞",
+        "val": "https://fastly.jsdelivr.net/gh/talen8/emojis/BlobCats/BlobCat_Blush.png"
+      },
+      {
+        "key": "BlobCat_拍照",
+        "val": "https://fastly.jsdelivr.net/gh/talen8/emojis/BlobCats/BlobCat_Camera.png"
+      },
+      {
+        "key": "BlobCat_小丑",
+        "val": "https://fastly.jsdelivr.net/gh/talen8/emojis/BlobCats/BlobCat_Clown.png"
+      },
+      {
+        "key": "BlobCat_咖啡",
+        "val": "https://fastly.jsdelivr.net/gh/talen8/emojis/BlobCats/BlobCat_Coffee.png"
+      },
+      {
+        "key": "BlobCat_游戏",
+        "val": "https://fastly.jsdelivr.net/gh/talen8/emojis/BlobCats/BlobCat_Controller.png"
+      },
+      {
+        "key": "BlobCat_腼腆",
+        "val": "https://fastly.jsdelivr.net/gh/talen8/emojis/BlobCats/BlobCat_Coy.png"
+      },
+      {
+        "key": "BlobCat_哭泣",
+        "val": "https://fastly.jsdelivr.net/gh/talen8/emojis/BlobCats/BlobCat_Cry.png"
+      },
+      {
+        "key": "BlobCat_死掉了",
+        "val": "https://fastly.jsdelivr.net/gh/talen8/emojis/BlobCats/BlobCat_Dead.png"
+      },
+      {
+        "key": "BlobCat_呆萌",
+        "val": "https://fastly.jsdelivr.net/gh/talen8/emojis/BlobCats/BlobCat_Derpy.png"
+      },
+      {
+        "key": "BlobCat_侦探",
+        "val": "https://fastly.jsdelivr.net/gh/talen8/emojis/BlobCats/BlobCat_Detective.png"
+      },
+      {
+        "key": "BlobCat_头晕",
+        "val": "https://fastly.jsdelivr.net/gh/talen8/emojis/BlobCats/BlobCat_Dizzy.png"
+      },
+      {
+        "key": "BlobCat_流口水",
+        "val": "https://fastly.jsdelivr.net/gh/talen8/emojis/BlobCats/BlobCat_Drool.png"
+      },
+      {
+        "key": "BlobCat_享受",
+        "val": "https://fastly.jsdelivr.net/gh/talen8/emojis/BlobCats/BlobCat_Enjoy.png"
+      },
+      {
+        "key": "BlobCat_邪恶",
+        "val": "https://fastly.jsdelivr.net/gh/talen8/emojis/BlobCats/BlobCat_Evil.png"
+      },
+      {
+        "key": "BlobCat_累瘫",
+        "val": "https://fastly.jsdelivr.net/gh/talen8/emojis/BlobCats/BlobCat_Exhausted.png"
+      },
+      {
+        "key": "BlobCat_捂脸",
+        "val": "https://fastly.jsdelivr.net/gh/talen8/emojis/BlobCats/BlobCat_Facepalm.png"
+      },
+      {
+        "key": "BlobCat_害怕",
+        "val": "https://fastly.jsdelivr.net/gh/talen8/emojis/BlobCats/BlobCat_Fearful.png"
+      },
+      {
+        "key": "BlobCat_调情",
+        "val": "https://fastly.jsdelivr.net/gh/talen8/emojis/BlobCats/BlobCat_Flirty.png"
+      },
+      {
+        "key": "BlobCat_花",
+        "val": "https://fastly.jsdelivr.net/gh/talen8/emojis/BlobCats/BlobCat_Flower.png"
+      },
+      {
+        "key": "BlobCat_皱眉",
+        "val": "https://fastly.jsdelivr.net/gh/talen8/emojis/BlobCats/BlobCat_Frown.png"
+      },
+      {
+        "key": "BlobCat_偷笑",
+        "val": "https://fastly.jsdelivr.net/gh/talen8/emojis/BlobCats/BlobCat_Giggle.png"
+      },
+      {
+        "key": "BlobCat_开心",
+        "val": "https://fastly.jsdelivr.net/gh/talen8/emojis/BlobCats/BlobCat_Happie.png"
+      },
+      {
+        "key": "BlobCat_爱心",
+        "val": "https://fastly.jsdelivr.net/gh/talen8/emojis/BlobCats/BlobCat_Heart.png"
+      },
+      {
+        "key": "BlobCat_心碎",
+        "val": "https://fastly.jsdelivr.net/gh/talen8/emojis/BlobCats/BlobCat_HeartBroken.png"
+      },
+      {
+        "key": "BlobCat_花痴",
+        "val": "https://fastly.jsdelivr.net/gh/talen8/emojis/BlobCats/BlobCat_HeartEyes.png"
+      },
+      {
+        "key": "BlobCat_抱抱",
+        "val": "https://fastly.jsdelivr.net/gh/talen8/emojis/BlobCats/BlobCat_Huggies.png"
+      },
+      {
+        "key": "BlobCat_喜欢",
+        "val": "https://fastly.jsdelivr.net/gh/talen8/emojis/BlobCats/BlobCat_Love.png"
+      },
+      {
+        "key": "BlobCat_糟糕",
+        "val": "https://fastly.jsdelivr.net/gh/talen8/emojis/BlobCats/BlobCat_OhNO.png"
+      },
+      {
+        "key": "BlobCat_OK",
+        "val": "https://fastly.jsdelivr.net/gh/talen8/emojis/BlobCats/BlobCat_OkiHand.png"
+      },
+      {
+        "key": "BlobCat_疼痛",
+        "val": "https://fastly.jsdelivr.net/gh/talen8/emojis/BlobCats/BlobCat_Pain.png"
+      },
+      {
+        "key": "BlobCat_偷看",
+        "val": "https://fastly.jsdelivr.net/gh/talen8/emojis/BlobCats/BlobCat_Peek.png"
+      },
+      {
+        "key": "BlobCat_吃瓜",
+        "val": "https://fastly.jsdelivr.net/gh/talen8/emojis/BlobCats/BlobCat_Popcorn.png"
+      },
+      {
+        "key": "BlobCat_难过",
+        "val": "https://fastly.jsdelivr.net/gh/talen8/emojis/BlobCats/BlobCat_Sad.png"
+      },
+      {
+        "key": "BlobCat_吓哭",
+        "val": "https://fastly.jsdelivr.net/gh/talen8/emojis/BlobCats/BlobCat_ScareCry.png"
+      },
+      {
+        "key": "BlobCat_尖叫",
+        "val": "https://fastly.jsdelivr.net/gh/talen8/emojis/BlobCats/BlobCat_Scream.png"
+      },
+      {
+        "key": "BlobCat_失眠",
+        "val": "https://fastly.jsdelivr.net/gh/talen8/emojis/BlobCats/BlobCat_Sleepless.png"
+      },
+      {
+        "key": "BlobCat_微笑",
+        "val": "https://fastly.jsdelivr.net/gh/talen8/emojis/BlobCats/BlobCat_Smiley.png"
+      },
+      {
+        "key": "BlobCat_委屈",
+        "val": "https://fastly.jsdelivr.net/gh/talen8/emojis/BlobCats/BlobCat_Sobby.png"
+      },
+      {
+        "key": "BlobCat_追星",
+        "val": "https://fastly.jsdelivr.net/gh/talen8/emojis/BlobCats/BlobCat_Starstruck.png"
+      },
+      {
+        "key": "BlobCat_惊讶",
+        "val": "https://fastly.jsdelivr.net/gh/talen8/emojis/BlobCats/BlobCat_Surprise.png"
+      },
+      {
+        "key": "BlobCat_流泪",
+        "val": "https://fastly.jsdelivr.net/gh/talen8/emojis/BlobCats/BlobCat_Tears.png"
+      },
+      {
+        "key": "BlobCat_恐惧",
+        "val": "https://fastly.jsdelivr.net/gh/talen8/emojis/BlobCats/BlobCat_Terrified.png"
+      },
+      {
+        "key": "BlobCat_思考",
+        "val": "https://fastly.jsdelivr.net/gh/talen8/emojis/BlobCats/BlobCat_Think.png"
+      },
+      {
+        "key": "BlobCat_沮丧",
+        "val": "https://fastly.jsdelivr.net/gh/talen8/emojis/BlobCats/BlobCat_Upset.png"
+      },
+      {
+        "key": "BlobCat_挥手",
+        "val": "https://fastly.jsdelivr.net/gh/talen8/emojis/BlobCats/BlobCat_Wave.png"
+      },
+      {
+        "key": "BlobCat_眨眼",
+        "val": "https://fastly.jsdelivr.net/gh/talen8/emojis/BlobCats/BlobCat_Wink.png"
+      },
+      {
+        "key": "BlobCat_闭嘴",
+        "val": "https://fastly.jsdelivr.net/gh/talen8/emojis/BlobCats/BlobCat_ZipperMouth.png"
+      }
+    ]
+  }
+]
